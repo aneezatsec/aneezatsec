@@ -8,7 +8,7 @@
 ---
 
 ## 💻 Currently Working On
-- TryHackMe: Pre-Security Path
+- TryHackMe: SOC Level 1
 - Building hands-on SOC skills
 - Documenting labs & badge progress here on GitHub
 
@@ -16,8 +16,7 @@
 
 ## 📜 Certifications & Badges (So Far)
 - Networking Nerd 🧠  
-- More to come...
-
+- More on (https://tryhackme.com/p/aneezat13)
 ---
 
 ## 📫 Connect with Me
