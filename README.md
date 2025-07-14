@@ -1,27 +1,51 @@
-# 👋🏽 Hi, I’m Aneezat Bello
+# 👩🏽‍💻 Aneezat Bello — Cybersecurity Analyst Trainee  
+**Hands-on Blue Team Learning • SOC Level 1 Focus • 70+ Labs Completed**
 
-🎯 **Aspiring Cybersecurity Analyst**  
-🔐 Currently training through TryHackMe’s Pre-Security and SOC Level 1 paths  
-📍 Based in Chicago, IL | Open to remote roles  
-🧠 Interests: Blue team operations, threat detection, log analysis
+Hi, I’m Aneezat — an aspiring cybersecurity analyst currently building my skillset through **real-world simulations on TryHackMe**. I’ve completed:
 
----
-
-## 💻 Currently Working On
-- TryHackMe: SOC Level 1
-- Building hands-on SOC skills
-- Documenting labs & badge progress here on GitHub
+- ✅ **Pre-Security Path**  
+- ✅ **Cyber Security 101 Path**  
+- 🔄 **SOC Level 1 Path** (in progress)  
+- 🧠 **70+ labs completed and counting**
 
 ---
 
-## 📜 Certifications & Badges (So Far)
-- Networking Nerd 🧠  
-- More on (https://tryhackme.com/p/aneezat13)
+## 🔍 What You'll Find Here
+This GitHub repo contains my **technical write-ups, reflections, and lab notes** from the TryHackMe platform. I document:
+- SIEM triage and log analysis  
+- Threat detection and incident response  
+- Network traffic investigation  
+- Linux command-line & file permissions  
+- Blue Team thinking and real-world analyst workflows
+
+Each lab entry includes:
+- 🏷 **Skills gained**  
+- 💡 **What I learned**  
+- 🔗 **Badges earned**
+
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/aneezat-bello-5468a6372)
-- [TryHackMe Profile](https://tryhackme.com/p/aneezat13)
+## 🛠️ Tools I’m Working With:
+- Splunk, Wireshark, Burp Suite, Nmap, Nessus  
+- Linux CLI, Bash, Python basics  
+- TryHackMe Labs, GitHub, Google Cybersecurity Certificate (in progress)
+
+---
+
+## 📌 Goals:
+- Land a **SOC Level 1 / Cybersecurity Analyst** role  
+- Contribute to a Blue Team environment  
+- Continue growing my skills and certifications  
+- Share my learning journey transparently
+
+---
+
+## 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/aneezat-bello-5468a6372/)  
+- [TryHackMe Profile](https://tryhackme.com/p/aneezat13)  
+- 📧 [Email Me](mailto:Aneezat13@gmail.com)  
+- 🐙 [GitHub](https://github.com/aneezatsec)
+
   
 
 <!--
