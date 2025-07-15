@@ -6,7 +6,7 @@ Hi, I’m Aneezat — an aspiring cybersecurity analyst currently building my sk
 - ✅ **Pre-Security Path**  
 - ✅ **Cyber Security 101 Path**  
 - 🔄 **SOC Level 1 Path** (in progress)  
-- 🧠 **70+ labs completed and counting**
+- 🧠 **80+ labs completed and counting**
 
 ---
 
