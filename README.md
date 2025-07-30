@@ -1,5 +1,5 @@
 # 👩🏽‍💻 Aneezat Bello — Cybersecurity Analyst Trainee  
-**Hands-on Blue Team Learning • SOC Level 1 Focus • 70+ Labs Completed**
+**Hands-on Blue Team Learning • SOC Level 1 Focus • 100+ Labs Completed**
 
 Hi, I’m Aneezat — an aspiring cybersecurity analyst currently building my skillset through **real-world simulations on TryHackMe**. I’ve completed:
 
